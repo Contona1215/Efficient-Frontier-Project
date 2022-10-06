@@ -27,7 +27,7 @@
 - **Metrics used to evaluate the model**:
   - Time Series of Closing Prices
    
-    <img src="Closing Price.png" width="100" height="100" />
+    <img src="Closing Price.png" width="200" height="200" />
       - Closing prices help analyze the level of sales and also can help investors decide whether to invest. Although the closing price fluctuates, the      overall trend of the closing price curves is upward. The closing prices are the fundamental data to choose the stock. If the closing price continues to fall, it means that the stock continues to lose money. Therefore, these stocks are a good choice for the portfolio on the macroscopic.
   
   - Time Series of Rate of Monthly Returns(in%)
