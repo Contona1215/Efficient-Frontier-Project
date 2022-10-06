@@ -33,7 +33,8 @@
   
   - Time Series of Rate of Monthly Returns(in%)
   
-  ![Monthly Return](https://user-images.githubusercontent.com/111463982/194404320-c913b6f8-a481-4fba-9a1a-c2d82bdbece4.png)
+    <img src="Monthly Return.png" width="600" height="600" /> 
+    
      - Based on the rate of monthly returns, as Y-axis as centered, positive volatility means profit and negative volatility means loss.  From the estimated yearly return, all stocks are positive, and investors are able to get profits in the long term.  Intuitively, nine stocks have different situations of positive and negative return peaks. Specifically, Netflix- 43.0%, the highest yearly return in the stock portfolio-owns the highest yearly return and also owns the lowest negative peak, which means high returns come with high risks.  For technological companies, Apple, Microsoft, Alphabet, and Amazon have great monthly return fluctuation and yearly return, and these stocks generally are optimistic in the future to continue to go higher.  During COVID-19, Brick-and-mortar companies, including CVS Health, Costco, Starbucks, and Nike, will be affected more than tech companies, which is reciprocal in the stocks’ performance.
   
   - Histograms of Monthly Rate of Returns(in%)
