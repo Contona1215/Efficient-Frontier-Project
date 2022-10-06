@@ -4,7 +4,7 @@
 - Person developing model
 - License: MIT
 - Model date: October, 2022
-- Model implementation material: [ hehe]   (https://github.com/Contona1215/Efficient-Frontier-Project/blob/main/EFFICIENT%20FRONTIER-%20Fangyuan_Du.xlsm)
+- Model implementation material: [Efficient Frontier Excel](https://github.com/Contona1215/Efficient-Frontier-Project/blob/main/EFFICIENT%20FRONTIER-%20Fangyuan_Du.xlsm)
 
 ## Intended Use
 - Primary intended uses: This model is an example portfolio in the proportion of stock and fund investment can be selected according to the client's preference and allocated reasonably using $100,000 funds.
