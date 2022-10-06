@@ -1,7 +1,7 @@
 # Efficient Frontier Porfolio Model Card
 
 ## Basic Information
-- Person developing model
+- Personal developing model
 - License: MIT
 - Model date: October, 2022
 - Model implementation material: [Efficient Frontier Excel](https://github.com/Contona1215/Efficient-Frontier-Project/blob/main/EFFICIENT%20FRONTIER-%20Fangyuan_Du.xlsm)
