@@ -30,7 +30,7 @@
  - Histograms of Monthly Rate of Returns(in%)
 - **The final values of the metrics for all data**:
 |    | **Standard Deviation** | **Mean** |
-|--------------|:----------------- |:--------------------- |:------------------------------------| 
+|--------------|:----------------- |:--------------------- |
 | **AAPL.return**           | 9.71   |  3.15                | 
 | **CVS.return**    | 6.58             |  0.86                | 
 | **MSFT.return**          | 6.51 | 1.34 | 
