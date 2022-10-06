@@ -35,11 +35,13 @@
   
     <img src="Monthly Return.png" width="600" height="600" /> 
     
-     - Based on the rate of monthly returns, as Y-axis as centered, positive volatility means profit and negative volatility means loss.  From the estimated yearly return, all stocks are positive, and investors are able to get profits in the long term.  Intuitively, nine stocks have different situations of positive and negative return peaks. Specifically, Netflix- 43.0%, the highest yearly return in the stock portfolio-owns the highest yearly return and also owns the lowest negative peak, which means high returns come with high risks.  For technological companies, Apple, Microsoft, Alphabet, and Amazon have great monthly return fluctuation and yearly return, and these stocks generally are optimistic in the future to continue to go higher.  During COVID-19, Brick-and-mortar companies, including CVS Health, Costco, Starbucks, and Nike, will be affected more than tech companies, which is reciprocal in the stocks’ performance.
+     - Based on the rate of monthly returns, as Y-axis as centered, positive volatility means profit and negative volatility means loss. From the estimated yearly return, all stocks are positive, and investors are able to get profits in the long term. Intuitively, nine stocks have different situations of positive and negative return peaks. Specifically, Netflix- 43.0%, the highest yearly return in the stock portfolio-owns the highest yearly return and also owns the lowest negative peak, which means high returns come with high risks. For technological companies, Apple, Microsoft, Alphabet, and Amazon have great monthly return fluctuation and yearly return, and these stocks generally are optimistic in the future to continue to go higher.  During COVID-19, Brick-and-mortar companies, including CVS Health, Costco, Starbucks, and Nike, will be affected more than tech companies, which is reciprocal in the stocks’ performance.
   
   - Histograms of Monthly Rate of Returns(in%)
   
-  ![Density Monthly Return](https://user-images.githubusercontent.com/111463982/194404343-5eb00d53-65fc-44a1-b1f4-61d9a00698f4.png)
+   <img src="Density Monthly Return.png" width="600" height="600" /> 
+   
+     - It combines normal density and kernel density with histograms of nine stocks helped by Mean and SD. The red line means an estimate of the underlying distribution for the nine stocks’ returns, and the blue line is ‘smoother’ than the red line. The blue line is weighted by the distance of all the data points on the red line. Briefly, normal density is symmetrical, but kernel density is not. The reason is kernel density uses all sample points for stocks, and it is better to reveal the information contained in the sample. Finally, kernel density increases the subjectivity of the histogram and shows how the distribution of the stock should look if it had a Bell-shape distribution. Clients are able to find new stock returns samples from Kernel density, and also are helped by probability density to find the relationship between stocks and their probability.
 
 - **The final values of the metrics for all data**:
 
