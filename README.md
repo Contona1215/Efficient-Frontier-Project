@@ -29,6 +29,7 @@
   - Time Series of Rate of Monthly Returns(in%)
   - Histograms of Monthly Rate of Returns(in%)
 - **The final values of the metrics for all data**:
+
 |    | **Standard Deviation** | **Mean** |
 |--------------|:----------------- |:--------------------- |
 | **AAPL.return**   | 9.71 | 3.15 | 
