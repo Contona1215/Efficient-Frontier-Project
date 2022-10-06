@@ -27,7 +27,7 @@
 - **Metrics used to evaluate the model**:
   - Time Series of Closing Prices
    
-   <img width="416" alt="image" src="https://user-images.githubusercontent.com/111463982/194391779-eca148f6-cc24-417d-b692-a4a39c26b5a8.png">
+   
   
   - Time Series of Rate of Monthly Returns(in%)
   
