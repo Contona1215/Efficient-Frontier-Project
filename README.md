@@ -32,7 +32,13 @@
   
   - Time Series of Rate of Monthly Returns(in%)
   
+  ![Monthly Return](https://user-images.githubusercontent.com/111463982/194404320-c913b6f8-a481-4fba-9a1a-c2d82bdbece4.png)
+
+  
   - Histograms of Monthly Rate of Returns(in%)
+  
+  ![Density Monthly Return](https://user-images.githubusercontent.com/111463982/194404343-5eb00d53-65fc-44a1-b1f4-61d9a00698f4.png)
+
 - **The final values of the metrics for all data**:
 
 | **Porfolio** | **Standard Deviation** | **Mean** |
