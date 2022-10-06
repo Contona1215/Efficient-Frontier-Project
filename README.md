@@ -39,7 +39,7 @@
   
   - Histograms of Monthly Rate of Returns(in%)
   
-   <img src="Density Monthly Return.png" width="600" height="600" /> 
+    <img src="Density Monthly Return.png" width="600" height="600" /> 
    
      - It combines normal density and kernel density with histograms of nine stocks helped by Mean and SD. The red line means an estimate of the underlying distribution for the nine stocks’ returns, and the blue line is ‘smoother’ than the red line. The blue line is weighted by the distance of all the data points on the red line. Briefly, normal density is symmetrical, but kernel density is not. The reason is kernel density uses all sample points for stocks, and it is better to reveal the information contained in the sample. Finally, kernel density increases the subjectivity of the histogram and shows how the distribution of the stock should look if it had a Bell-shape distribution. Clients are able to find new stock returns samples from Kernel density, and also are helped by probability density to find the relationship between stocks and their probability.
 
