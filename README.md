@@ -59,7 +59,7 @@
 
 - **The Efficient Frontier for all data**
  
- <img src="Efficient Frontier.png" width="600" height="600" /> 
+ <img src="Efficient Frontier.png" width="700" height="500" /> 
    
   - It illustrates efficient Frontier aims to provide the highest expected return at risk or to lower risk for the expected return. The X-axis is the level of risk, and the Y-axis is the level of return. The above result is based on fifty percent of desired in the risk-free fund, and it could change by clients’ preference. If clients' age is younger, it is possible to invest more proportion into stocks. However, this will bear more risks, and the standard deviation return will be higher. In the effective frontier, any investment portfolio follows the two-fund theorem, which indicates that any two given investment portfolios on the boundary are combined to generate. Thus, in the absence of a risk-free asset, even if all available are a pair of efficient mutual funds, the investor achieves any required efficient portfolio. If the desired portfolio position on the boundary is between the positions of two mutual funds, the two mutual funds will be held in a positive number. 
 
